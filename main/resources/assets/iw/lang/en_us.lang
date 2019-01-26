@@ -1,0 +1,18 @@
+//Items
+
+item.tbone_steak.name=TBone Steak
+item.bone_soup.name=Bone Soup
+item.ipecac.name=Ipecac
+item.iron_paws.name=Iron Paws
+item.peanut_butter.name=Peanut Butter
+item.peanuts.name=Peanuts
+item.spiked_collar.name=Spiked Collar
+item.tbone_steak.name=TBone Steak
+item.tbone_cooked.name=TBone Cooked
+item.peanuts_roasted.name=Peanuts Roasted
+
+
+//Blocks
+
+tile.marrow_block.name=Marrow Block
+tile.energetic_iron_block.name=Energetic Iron Block

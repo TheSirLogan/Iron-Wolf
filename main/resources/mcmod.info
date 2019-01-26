@@ -1,0 +1,16 @@
+[
+{
+  "modid": "iw",
+  "name": "Iron Wolf",
+  "description": "Iron Wolf Mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "TheSirLogan.com",
+  "updateUrl": "",
+  "authorList": ["The Sir Logan"],
+  "credits": "All my fans and special thanks to Harry's Mods and Loremaster for the tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
